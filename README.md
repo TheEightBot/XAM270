@@ -7,4 +7,4 @@ For the latest free Xamarin training, head over to [Microsoft Learn](https://aka
 ## Course materials
 
 * [Course video](https://youtu.be/ewBHlerDsAk)
-* [Exercise instructions](https://XamarinUniversity.github.io/XAM270/)
+* [Exercise instructions](https://TheEightBot.github.io/XAM270/)
